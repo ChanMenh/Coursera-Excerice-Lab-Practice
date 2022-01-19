@@ -1,1 +1,1 @@
-# Coursera-Excerice-Lab-Practice
+# Coursera Excerice/Lab Practice
